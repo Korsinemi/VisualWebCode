@@ -1,7 +1,9 @@
 # VSC-Replit
-A package for use Visual Studio Code on Replit!!!!
+A package for use Visual Studio Code on Replit using a web package!!!!
 
 
 # Installation
 
-Just clone this repo on replit.com and run it nwn
+1. Fork this repo
+2. Open it on replit.com and run it
+3. Enjoy it!! nwn
