@@ -1,5 +1,5 @@
 # VisualWebCode (VWC)
-A package for use Visual Studio Code on Replit using a web package!!!!
+A package for use Visual Studio Code on Replit or Heroku using a web package!!!!
 
 
 # Installation
